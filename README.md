@@ -1,8 +1,10 @@
-# cyber-security-case-study-sad
+# cyber-security-case-study-sda
 # Cyber Security Case Study – Safe Drive Automobiles (SDA)
+## My Approach
 
-This project is a cyber security analysis of a simulated real-world attack on a medium-sized automobile company.
+In this project, I focused on identifying practical vulnerabilities and linking them to real world risks. I analysed each issue based on its impact and prioritised solutions that align with industry best practices.
 
+In this project, I analysed a simulated real-world cyber attack on a medium-sized automobile company.
 ## Scenario
 The company was targeted by a phishing-based attack that resulted in a triple extortion incident. Sensitive customer data was exposed, including financial and personal information.
 
